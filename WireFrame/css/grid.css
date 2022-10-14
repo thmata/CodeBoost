@@ -1,0 +1,15 @@
+/* Container é feito para manter o conteúdo da página do tamanho correto
+   é somado 0 valor do padding dentro do max-width para poder compensar o padding
+   max-width: 1216px + 30px = 1246px
+
+    O Padding é adicionado para dar um respiro quando for no mobile.
+
+*/
+
+
+.container {
+    width: 100%;
+    max-width: 1246px;
+    margin: 0 auto;
+    padding: 0px 15px;
+}
