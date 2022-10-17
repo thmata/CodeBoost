@@ -25,3 +25,32 @@ header nav ul {
     display: flex;
     gap: 32px;
 }
+
+/* Styles Hero */
+
+section .container {
+    display: flex;
+    align-items: center;
+    padding: 72px 15px;
+    gap: 50px;
+    justify-content: space-between
+}
+
+section .text {
+    max-width: 640px;
+    width: 100%;
+    
+}
+
+section p {
+    max-width: 488px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 52px;
+    
+}
+
+section .btn-primary {
+    padding: 20px 40px;
+    
+}
