@@ -1,15 +1,17 @@
 * {
-    margin: 0;  
+    margin: 0;
     padding: 0;
     border: none;
-    box-sizing: border-box;
-    list-style: none;
+    outline: none;
     text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
     font-size: 1.6rem;
+
     font-family: 'Inter', sans-serif;
 }
 
-img{
+img {
     max-width: 100%;
     display: block;
 }
@@ -18,7 +20,7 @@ html {
     font-size: 62.5%;
 }
 
-button {
+button, a {
     cursor: pointer;
 }
 
