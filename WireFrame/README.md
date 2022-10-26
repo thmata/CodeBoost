@@ -1,7 +1,7 @@
-# projeto-wireframe
+# Projeto-Wireframe
 Projeto criado pra apresentar técnicas de Flexbox
 
-<img src="./.github/preview.jpg" alt="Foto do projeto">
+<img src="https://user-images.githubusercontent.com/85140172/197430938-903fb533-6b2e-4aa0-b22c-f9f7cefec707.png" alt="Foto do projeto">
 
 # Tecnologias Usadas 🚀
 
