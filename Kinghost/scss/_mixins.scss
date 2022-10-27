@@ -1,0 +1,5 @@
+@mixin reponsive($ScreenWidth){
+    @media(max-width: $ScreenWidth){
+        @content
+    }
+}
